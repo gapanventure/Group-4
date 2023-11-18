@@ -21,89 +21,89 @@
     margin-left: auto;
     margin-right: auto;
     width: 70%;
-    top: 1%;
+    top: 100px;
 }
 .tsinelasdesc{
     position: relative;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    top: 0.5%;
+    top: 0%;
 }
 .oldcasa1{
     position: relative;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
-    top: 1%;
+    top: 0%;
 }
 .oldcasadesc1{
     position: relative;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    top: 0.5%;
+    top: -100px;
 }
 .oldcasadesc2{
     position: relative;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    top: -0.5%;
+    top: -350px;
 }
 .gapantown{
     position: relative;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
-    top: 0%;
+    top: -200px;
 }
 .lumanggapan{
     position: relative;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    top: -0.5%;
+    top: -300px;
 }
 .lumanggapan2{
     position: relative;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    top: -2%;
+    top: -700px;
 }
 .nightmarketpic{
     position: relative;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
-    top: -2%;
+    top: -800px;
 }
 .plaza{
     position: relative;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    top: -2.5%;
+    top: -900px;
 }
 .ategirl{
     position: relative;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
-    top: -1%;
+    top: -900px;
 }
 .nightmarket{
     position: relative;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    top: -1.5%;
+    top: -1000px;
 }
 .group{
     position: relative;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    top: -1.5%;
+    top: -1000px;
 }
